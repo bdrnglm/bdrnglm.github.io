@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Vanlose;
+    src: url("../font/Vanlose_BookType Normal.otf") format("opentype");
+}
+
+html {
+  background: url(../image/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bdrn {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  color: white;
+  font-family: Vanlose;
+  display: inline-block;
+  border: 10px solid;
+  padding: 1px 50px 5px 50px;
+  font-size: 5em;
+}
