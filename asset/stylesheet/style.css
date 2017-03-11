@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Tendrils;
-    src: url("../font/TendrilsPersonalUse.ttf") format("truetype");
+  font-family: Leixo;
+  src: url("../font/Leixo.ttf") format("truetype");
 }
 
 .background-image {
@@ -16,14 +16,14 @@
 
 .bdrn {
   position: absolute;
-  top: 35%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 
   color: white;
-  font-family: Tendrils;
+  font-family: Leixo;
   display: inline-block;
   border: 10px solid;
-  padding: 15px 50px 5px 50px;
+  padding: 5px 20px 10px 20px;
   font-size: 5em;
 }
