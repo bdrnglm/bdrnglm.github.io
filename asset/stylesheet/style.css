@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Vanlose;
-    src: url("../font/Vanlose_BookType Normal.otf") format("opentype");
+    font-family: Tendrils;
+    src: url("../font/TendrilsPersonalUse.ttf") format("truetype");
 }
 
 .background-image {
@@ -21,9 +21,9 @@
   transform: translate(-50%, -50%);
 
   color: white;
-  font-family: Vanlose;
+  font-family: Tendrils;
   display: inline-block;
   border: 10px solid;
-  padding: 1px 50px 5px 50px;
+  padding: 15px 50px 5px 50px;
   font-size: 5em;
 }
