@@ -11,7 +11,7 @@
   background-size: cover;
   min-height: 100%;
   height: 100vh;
-  filter: blur(5px);
+  filter: blur(3px);
 }
 
 .bdrn {
