@@ -11,6 +11,10 @@
   min-height: 100%;
 }
 
+.background-video {
+  filter: blur(10px);
+}
+
 .bdrn {
   position: absolute;
   top: 50%;
